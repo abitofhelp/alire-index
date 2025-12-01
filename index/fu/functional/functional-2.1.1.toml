@@ -3,13 +3,23 @@ description = "Result, Option, Either types for type-safe error handling in Ada 
 version = "2.1.1"
 
 authors = ["A Bit of Help, Inc. - Michael Gardner"]
-maintainers = ["A Bit of Help, Inc. - Michael Gardner <mjgardner@abitofhelp.com>"]
+maintainers = [
+    "A Bit of Help, Inc. - Michael Gardner <mjgardner@abitofhelp.com>",
+]
 maintainers-logins = ["abitofhelp"]
 licenses = "BSD-3-Clause"
 website = "https://github.com/abitofhelp/functional"
-tags = ["functional", "fx", "either", "option", "result", "monad", "error-handling", "ada2022"]
+tags = [
+    "functional",
+    "fx",
+    "either",
+    "option",
+    "result",
+    "monad",
+    "error-handling",
+    "ada2022",
+]
 
 [origin]
-commit = "21b07c75f5e12ba00040f574c3bb69181b2ab3e8"
+commit = "34811908407b93b12066b2c1fb22ba70d4d4d377"
 url = "git+https://github.com/abitofhelp/functional.git"
-
